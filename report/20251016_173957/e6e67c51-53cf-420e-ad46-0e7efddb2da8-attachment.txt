@@ -1,0 +1,33 @@
+
+🧩 正在执行用例: 登录
+响应状态码: 200
+响应结果: {
+  "code": 1,
+  "message": "success",
+  "request_id": "d0fbc702f76a1ae89ad3aa8a5474d8b4",
+  "timestamp": 1760607599,
+  "data": {
+    "token": "766492570de41d82c1b0f82b59c8db223e0747e15730d27dacfd5ef42eeb7ef1",
+    "gateAddress": "wss://test-xmlobby.cmywkj.cn",
+    "newGateAddress": "wss://test-gatex.cmywkj.cn",
+    "user": {
+      "uid": 16365926,
+      "isNewUser": false,
+      "isAuth": false,
+      "firstChannelCode": "-1",
+      "firstLinkId": "",
+      "currentChannelCode": "-1",
+      "currentLinkId": "",
+      "customChannel": "",
+      "prevVisitTime": 1760607291,
+      "prevVisitDate": "2025-10-16 17:34:51.000",
+      "isFirstLogin": 0,
+      "registerDays": 4,
+      "registerTime": 1760325593,
+      "registerDate": "2025-10-13 11:19:53.000"
+    }
+  }
+}
+🔧 全局变量已保存: user_token = 766492570de41d82c1b0f82b59c8db223e0747e15730d27dacfd5ef42eeb7ef1
+✅ 用例 [登录] 执行完成
+

@@ -1,0 +1,3 @@
+# 基础配置（域名）
+base_url: "https://test-xmlogin2.cmywkj.cn"  # 改成你的测试环境地址
+env: "test"
